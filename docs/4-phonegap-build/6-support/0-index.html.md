@@ -30,4 +30,4 @@ If you're having trouble with PhoneGap Development and coding:
 - If you think you're facing a bug with the PhoneGap / Cordova framework or a core Cordova Plugin, check out the [Apache Cordova Jira](https://cordova.apache.org/contribute/issues.html). Please search before logging a bug.
 - [PhoneGap Google Group](https://groups.google.com/forum/#!forum/phonegap)
 
-Otherwise, hit us us up on the [PhoneGap Build Community Forum](https://forums.adobe.com/community/phonegap/build)!
+Otherwise, visit us on the [PhoneGap Build Community Forum](https://forums.adobe.com/community/phonegap/build)!
